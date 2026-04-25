@@ -25,7 +25,7 @@ Zhen Zeng, Hongzhi Jia. 2014 "[Color restoration in the black-and-white video ca
 <img width="900" height="562" alt="image" src="https://github.com/user-attachments/assets/5b830eaa-4313-4feb-a5fb-94ded243433b" />
 
 ### video_player.py
-<img width="534" height="1312" alt="image" src="https://github.com/user-attachments/assets/5cf6cad1-99a1-4a44-81dd-5b8f3c3ca15b" />
+<img width="267" height="656" alt="image" src="https://github.com/user-attachments/assets/5cf6cad1-99a1-4a44-81dd-5b8f3c3ca15b" />
 
 # Future Improvements
 - Automate the entire workflow to be able to be done in one program
